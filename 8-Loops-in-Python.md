@@ -8,11 +8,13 @@
     - [ELSE statement with a WHILE loop](#else-statement-with-a-while-loop)
     - [PASS statement with a WHILE loop](#pass-statement-with-a-while-loop)
     - [Infinite WHILE loops](#infinite-while-loops)
+    - [Code examples of WHILE loops](/code/loop-while.py)
 1. [FOR loops](#for-loops)
     - [BREAK statement with a FOR loop](#break-statement-with-a-for-loop)
     - [CONTINUE statement with a FOR loop](#continue-statement-with-a-for-loop)
     - [ELSE statement with a FOR loop](#else-statement-with-a-for-loop)
     - [PASS statement with a FOR loop](#pass-statement-with-a-for-loop)
+    - [Code examples of FOR loops](/code/loop-for.py)
 
 ---
 
